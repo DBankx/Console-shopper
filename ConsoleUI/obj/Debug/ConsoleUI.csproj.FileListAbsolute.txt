@@ -1,0 +1,10 @@
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\bin\Debug\CommerceLibrary.dll
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\bin\Debug\CommerceLibrary.pdb
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\obj\Debug\ConsoleUI.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Asus\source\repos\ConsoleShopper\ConsoleUI\obj\Debug\ConsoleUI.pdb

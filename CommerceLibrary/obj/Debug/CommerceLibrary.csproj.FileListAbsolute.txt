@@ -1,0 +1,6 @@
+C:\Users\Asus\source\repos\ConsoleShopper\CommerceLibrary\bin\Debug\CommerceLibrary.dll
+C:\Users\Asus\source\repos\ConsoleShopper\CommerceLibrary\bin\Debug\CommerceLibrary.pdb
+C:\Users\Asus\source\repos\ConsoleShopper\CommerceLibrary\obj\Debug\CommerceLibrary.csprojAssemblyReference.cache
+C:\Users\Asus\source\repos\ConsoleShopper\CommerceLibrary\obj\Debug\CommerceLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\ConsoleShopper\CommerceLibrary\obj\Debug\CommerceLibrary.dll
+C:\Users\Asus\source\repos\ConsoleShopper\CommerceLibrary\obj\Debug\CommerceLibrary.pdb
